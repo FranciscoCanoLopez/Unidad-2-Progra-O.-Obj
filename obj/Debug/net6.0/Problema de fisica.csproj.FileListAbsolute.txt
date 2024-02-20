@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\Problema de fisica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\Problema de fisica.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\Problema de fisica.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\Problema de fisica.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\bin\Debug\net6.0\Problema de fisica.exe
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\bin\Debug\net6.0\Problema de fisica.deps.json
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\bin\Debug\net6.0\Problema de fisica.runtimeconfig.json
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\bin\Debug\net6.0\Problema de fisica.dll
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\bin\Debug\net6.0\Problema de fisica.pdb
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\Problema de fisica.dll
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\refint\Problema de fisica.dll
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\Problema de fisica.pdb
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\Problema de fisica.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Problema de fisica\Problema de fisica\obj\Debug\net6.0\ref\Problema de fisica.dll
